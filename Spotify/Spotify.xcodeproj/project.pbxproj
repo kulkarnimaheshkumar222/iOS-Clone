@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D99E63F281A6F3C00173296 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D99E63E281A6F3C00173296 /* Extensions.swift */; };
 		1DD951002819A9AF00C49EAF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD950FF2819A9AF00C49EAF /* AppDelegate.swift */; };
 		1DD951022819A9AF00C49EAF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD951012819A9AF00C49EAF /* SceneDelegate.swift */; };
 		1DD951042819A9AF00C49EAF /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD951032819A9AF00C49EAF /* HomeViewController.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D99E63E281A6F3C00173296 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		1DD950FC2819A9AF00C49EAF /* Spotify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spotify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DD950FF2819A9AF00C49EAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DD951012819A9AF00C49EAF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -140,6 +142,7 @@
 				1DD951082819A9AF00C49EAF /* Assets.xcassets */,
 				1DD950FF2819A9AF00C49EAF /* AppDelegate.swift */,
 				1DD951012819A9AF00C49EAF /* SceneDelegate.swift */,
+				1D99E63E281A6F3C00173296 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				1DD9511E2819ADC000C49EAF /* LibraryViewController.swift in Sources */,
 				1DD9512C2819AEA500C49EAF /* PlayListViewController.swift in Sources */,
 				1DD951382819AF7100C49EAF /* AudioTrackModel.swift in Sources */,
+				1D99E63F281A6F3C00173296 /* Extensions.swift in Sources */,
 				1DD951022819A9AF00C49EAF /* SceneDelegate.swift in Sources */,
 				1DD9513C2819AFC000C49EAF /* UserProfileModel.swift in Sources */,
 				1DD9512A2819AE8300C49EAF /* PlayerViewController.swift in Sources */,
